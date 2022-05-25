@@ -1,0 +1,43 @@
+title: Fundamentos de Programação WEB
+email: jacson.silva@ufes.br
+description: >-
+  Esta página foi desenvolvida para dar apoio aos estudantes de Fundamentos
+  de Programação para WEB.
+  Serão disponibilizados aqui os conteúdos da disciplina e informações úteis
+  para que vocês possam acompanhar bem a disciplna.
+  Sintam-se livres para me contactar e também para marcar um horário e tirar
+  dúvidas em minha sala. Para isso, me enviem um e-mail, por favor.
+  Minha meta é o seu aprendizado.
+  Vamos nos divertir? Ok, então, bora programar.
+#baseurl: ""
+#url: ""
+domain: www.jeiks.net
+baseurl: "/fundpweb/"
+url: "http://www.jeiks.net"
+
+twitter_username: jeiks
+github_username:  jeiks
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

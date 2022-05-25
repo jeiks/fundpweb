@@ -18,7 +18,7 @@ url: "http://www.jeiks.net"
 twitter_username: jeiks
 github_username:  jeiks
 
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jekyll-feed
 

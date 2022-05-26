@@ -9,9 +9,9 @@ description: >-
   dúvidas em minha sala. Para isso, me enviem um e-mail, por favor.
   Minha meta é o seu aprendizado.
   Vamos nos divertir? Ok, então, bora programar.
-domain: www.jeiks.net
-baseurl: "/fundpweb/"
-url: "http://www.jeiks.net"
+domain: "www.jeiks.net"
+baseurl: ""
+url: "http://www.jeiks.net/fundpweb"
 
 twitter_username: jeiks
 github_username:  jeiks

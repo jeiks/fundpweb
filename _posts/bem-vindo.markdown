@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  "Plano de Ensino"
-date:   2022-05-25 14:52:42 -0300
+date:   2022-05-26 14:23:00 -0300
 ---
-
-O plano de ensino continuará o mesmo que já foi publicado pelo professor Bruno:
 
 [Plano de Ensino]({{site.baseurl}}{% link files/Plano_de_Ensino-Fundamentos_prog_web.pdf %})
 

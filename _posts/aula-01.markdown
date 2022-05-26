@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Aula 01 (25/05/22)"
-date:   2022-05-25 14:52:42 -0300
+date:   2022-05-25 18:00:00 -0300
 ---
 
 Slides utilizados:

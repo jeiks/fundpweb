@@ -10,7 +10,7 @@ description: >-
   Minha meta é o seu aprendizado.
   Vamos nos divertir? Ok, então, bora programar.
 domain: "www.jeiks.net"
-baseurl: "fundpweb"
+baseurl: "/fundpweb"
 url: "http://www.jeiks.net/fundpweb"
 
 twitter_username: jeiks

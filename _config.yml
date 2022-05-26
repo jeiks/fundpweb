@@ -12,7 +12,7 @@ description: >-
 #baseurl: ""
 #url: ""
 domain: www.jeiks.net
-baseurl: "fundpweb"
+baseurl: "/fundpweb/"
 url: "http://www.jeiks.net/"
 
 twitter_username: jeiks

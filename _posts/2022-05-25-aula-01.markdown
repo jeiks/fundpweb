@@ -6,7 +6,7 @@ date:   2022-05-25 18:00:00 -0300
 
 Slides utilizados:
 
-[Slides 01]({{site.baseurl}}{% link files/slides/fund-web-slides-01.pdf %})
+[Slides 01]({{site.baseurl}}{% link files/slides/01-fund-web-slides.pdf %})
 
 Script em bash utilizado em aula:
 

@@ -70,6 +70,7 @@ layout: post
         * O que é Floating?
         * O que o Floating muda do desenvolvimento Web atual em relação ao modo antigo (com uso de tabelas na construção do site)?
 4. [Slides COMPLETOS com o exercício da sala (site de Alegre-ES))]({{site.baseurl}}{% link files/slides/04-fund-web-atividade.pdf %})
+5. [Slides com o exercício de CSS (parcial)]({{site.baseurl}}{% link files/slides/05-fund-web-atividade-parcial.pdf %})
 
 **Conteúdos adicionais para estudos:**
 1. [Site do Prof. Giuliano](https://sites.google.com/view/aulasgiuliano/fundamentos-web)

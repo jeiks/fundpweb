@@ -69,8 +69,11 @@ layout: post
         * O que é Box Model?
         * O que é Floating?
         * O que o Floating muda do desenvolvimento Web atual em relação ao modo antigo (com uso de tabelas na construção do site)?
-4. [Slides COMPLETOS com o exercício da sala (site de Alegre-ES))]({{site.baseurl}}{% link files/slides/04-fund-web-atividade.pdf %})
-5. [Slides com o exercício de CSS (parcial)]({{site.baseurl}}{% link files/slides/05-fund-web-atividade-parcial.pdf %})
+4. [Slides com o exercício "site de Alegre-ES"]({{site.baseurl}}{% link files/slides/04-fund-web-atividade.pdf %})
+5. [Slides com o exercício de CSS]({{site.baseurl}}{% link files/slides/05-fund-web-atividade.pdf %})
+6. Tarefa:
+    * fazer uma cópia do "site de Alegre-ES" que vocês implementaram (tópico 4);
+    * melhorá-lo (visual e navegação) utilizando o CSS que vocês aprenderam (tópico 5).
 
 **Conteúdos adicionais para estudos:**
 1. [Site do Prof. Giuliano](https://sites.google.com/view/aulasgiuliano/fundamentos-web)

@@ -27,7 +27,7 @@ layout: post
 		* [StackOverflow: rem e em](https://pt.stackoverflow.com/questions/390324/por-que-o-bootstrap-4-usa-rem-e-em-no-lugar-de-pixels)
 		* [Unidades: px, em, rem](https://www.nickolasjoe.com/qual-a-diferenca-entre-pixel-em-e-rem-entenda-essas-unidades-css/#:~:text=O%20nome%20rem%20significa%20Root,do%20em%20com%20elementos%20filhos.)
 		* [Unidades: em, px, pt, cm, in](https://www.w3.org/Style/Examples/007/units.pt_BR.html)
-	* [Dicas s truques CSS (W3)](http://www.internetbootcamp.net/007/) ([em inglês](https://www.w3.org/Style/Examples/007/#translations))
+	* [Dicas e truques CSS (W3)](http://www.internetbootcamp.net/007/) ([em inglês](https://www.w3.org/Style/Examples/007/#translations))
 	* Box Model:
 		* [Explicação da Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 		* [Explicação da W3Schools](https://www.w3schools.com/css/css_boxmodel.asp)
@@ -39,6 +39,8 @@ layout: post
 			* [Exemplos de float](https://www.w3schools.com/css/css_float_examples.asp)
 		* [Explicação da Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/CSS/float)
 		* [CSS Avançado](https://drive.google.com/file/d/16lsRTlOHtWW7kmpG79_yxzXoSQ4uRZwn/view)
+    * [Slides Flexbox]({{site.baseurl}}{% link files/slides/06-fund-web-slides.pdf %})
+    * [Slides Grid]({{site.baseurl}}{% link files/slides/07-fund-web-slides.pdf %})
 
 **Exercícios:**
 1. Exercícios 01:
@@ -74,6 +76,7 @@ layout: post
 6. Tarefa:
     * fazer uma cópia do "site de Alegre-ES" que vocês implementaram (tópico 4);
     * melhorá-lo (visual e navegação) utilizando o CSS que vocês aprenderam (tópico 5).
+7. [Slides com o exercício de Flexbox]({{site.baseurl}}{% link files/slides/08-fund-web-atividade-flexbox.pdf %})
 
 **Conteúdos adicionais para estudos:**
 1. [Site do Prof. Giuliano](https://sites.google.com/view/aulasgiuliano/fundamentos-web)

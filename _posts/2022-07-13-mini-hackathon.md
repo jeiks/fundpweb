@@ -1,6 +1,6 @@
 ---
 title:  Mini Hackathon
-date:   2022-07-13 18:05:00 -0300
+date:   2022-07-13 18:00:00 -0300
 layout: post
 ---
 

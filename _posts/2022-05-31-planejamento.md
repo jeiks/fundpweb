@@ -91,7 +91,7 @@ date:   2022-05-31 10:44:26 -0300
   * Avaliação
 
 - 15/08/22
-  Feriado
+  * Feriado
 
 - 17/08/22, aula 30
   * Correção da avaliação

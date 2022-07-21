@@ -41,6 +41,7 @@ layout: post
 		* [CSS Avançado](https://drive.google.com/file/d/16lsRTlOHtWW7kmpG79_yxzXoSQ4uRZwn/view)
     * [Slides Flexbox]({{site.baseurl}}{% link files/slides/06-fund-web-slides.pdf %})
     * [Slides Grid]({{site.baseurl}}{% link files/slides/07-fund-web-slides.pdf %})
+    * [Slides Responsividade]({{site.baseurl}}{% link files/slides/09-fund-web-slides.pdf %})
 
 **Exercícios:**
 1. Exercícios 01:

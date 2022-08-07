@@ -79,7 +79,8 @@ layout: post
     * melhorá-lo (visual e navegação) utilizando o CSS que vocês aprenderam (tópico 5).
 7. [Slides com o exercício de Flexbox]({{site.baseurl}}{% link files/slides/08-fund-web-atividade-flexbox.pdf %})
 8. [Exercícios HTML5]({{site.baseurl}}{%link files/Exercicios_HTML5.pdf %})
-9. [Exercícios HTML5 (Reposição)]({{site.baseurl}}{%link files/Exercicios_HTML5-conceitos.pdf %})
+
+Exercícios para reposição: [HTML5]({{site.baseurl}}{%link files/Exercicios_HTML5-conceitos.pdf %})
 
 **Conteúdos adicionais para estudos:**
 1. [Site do Prof. Giuliano](https://sites.google.com/view/aulasgiuliano/fundamentos-web)

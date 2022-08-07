@@ -43,6 +43,8 @@ layout: post
 
 Exercícios para reposição: [HTML5]({{site.baseurl}}{%link files/Exercicios_HTML5-conceitos.pdf %})
 
+<hr>
+
 **Material de estudo:**
 * Fundamentos WEB:
 	* [Slides]({{site.baseurl}}{% link files/slides/01-fund-web-slides.pdf %})

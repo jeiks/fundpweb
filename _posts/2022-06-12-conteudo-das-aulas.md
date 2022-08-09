@@ -9,8 +9,8 @@ layout: post
     * Criação de um login no GitHub e suas páginas:
     <br>uma página simples para aprender a usar o GitHub;
     <br>uma página com principais tags e apoio do [W3Schools](https://www.w3schools.com).
-2. [Exercícios 02]({{site.baseurl}}{% link files/exercicios-2022-06-01.zip %})
-3. Exercícios 03:
+1. [Exercícios 02]({{site.baseurl}}{% link files/exercicios-2022-06-01.zip %})
+1. Exercícios 03:
     1. Defina o que é HTML e qual é sua relação com XML e SGML.
     2. Sobre Marketing Digital:
         * Qual o tipo de consumidor atual e como atingi-los pela Internet?
@@ -33,13 +33,15 @@ layout: post
         * O que é Box Model?
         * O que é Floating?
         * O que o Floating muda do desenvolvimento Web atual em relação ao modo antigo (com uso de tabelas na construção do site)?
-4. [Slides com o exercício "site de Alegre-ES"]({{site.baseurl}}{% link files/slides/04-fund-web-atividade.pdf %})
-5. [Slides com o exercício de CSS]({{site.baseurl}}{% link files/slides/05-fund-web-atividade.pdf %})
-6. Tarefa:
+1. [Slides com o exercício "site de Alegre-ES"]({{site.baseurl}}{% link files/slides/04-fund-web-atividade.pdf %})
+1. [Slides com o exercício de CSS]({{site.baseurl}}{% link files/slides/05-fund-web-atividade.pdf %})
+1. Tarefa:
     * fazer uma cópia do "site de Alegre-ES" que vocês implementaram (tópico 4);
     * melhorá-lo (visual e navegação) utilizando o CSS que vocês aprenderam (tópico 5).
-7. [Slides com o exercício de Flexbox]({{site.baseurl}}{% link files/slides/08-fund-web-atividade-flexbox.pdf %})
-8. [Exercícios HTML5]({{site.baseurl}}{%link files/Exercicios_HTML5.pdf %})
+1. [Slides com o exercício de Flexbox]({{site.baseurl}}{% link files/slides/08-fund-web-atividade-flexbox.pdf %})
+1. [Exercícios HTML5]({{site.baseurl}}{%link files/Exercicios_HTML5.pdf %})
+1. [Exercícios CSS3]({{site.baseurl}}{%link files/Exercicios_CSS3.pdf %})
+
 
 Exercícios para reposição: [HTML5]({{site.baseurl}}{%link files/Exercicios_HTML5-conceitos.pdf %})
 

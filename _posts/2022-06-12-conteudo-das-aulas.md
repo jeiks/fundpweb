@@ -40,7 +40,7 @@ layout: post
     * melhorá-lo (visual e navegação) utilizando o CSS que vocês aprenderam (tópico 5).
 1. [Slides com o exercício de Flexbox]({{site.baseurl}}{% link files/slides/08-fund-web-atividade-flexbox.pdf %})
 1. [Exercícios HTML5]({{site.baseurl}}{%link files/Exercicios_HTML5.pdf %})
-1. [Exercícios CSS3]({{site.baseurl}}{%link files/Exercicios_CSS3.pdf %})
+1. [Exercícios CSS3]({{site.baseurl}}{%link files/Exercicios_CSS3.pdf %}) ([Menu Hamburguer]({{site.baseurl}}{% link files/menu.zip %}))
 
 
 Exercícios para reposição: [HTML5]({{site.baseurl}}{%link files/Exercicios_HTML5-conceitos.pdf %})

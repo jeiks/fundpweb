@@ -4,7 +4,9 @@ date:   2022-06-12 10:33:36 -0300
 layout: post
 ---
 
-**Exercícios:**
+## Exercícios:
+
+**1ª Parte**
 1. Exercícios 01:
     * Criação de um login no GitHub e suas páginas:
     <br>uma página simples para aprender a usar o GitHub;
@@ -40,14 +42,20 @@ layout: post
     * melhorá-lo (visual e navegação) utilizando o CSS que vocês aprenderam (tópico 5).
 1. [Slides com o exercício de Flexbox]({{site.baseurl}}{% link files/slides/08-fund-web-atividade-flexbox.pdf %})
 1. [Exercícios HTML5]({{site.baseurl}}{%link files/Exercicios_HTML5.pdf %})
+
+**2ª Parte**
+1. [Portfolio]({{site.baseurl}}{%link files/portfolio.jpg %})
+1. [Media Query]({{site.baseurl}}{%link files/media_query.zip %}) ([exemplo]({{site.baseurl}}{% link files/media-query.jpg %}))
 1. [Exercícios CSS3]({{site.baseurl}}{%link files/Exercicios_CSS3.pdf %}) ([Menu Hamburguer]({{site.baseurl}}{% link files/menu.zip %}))
 
+<hr>
 
 Exercícios para reposição: [HTML5]({{site.baseurl}}{%link files/Exercicios_HTML5-conceitos.pdf %})
 
 <hr>
+<hr>
 
-**Material de estudo:**
+## Material de estudo:
 * Fundamentos WEB:
 	* [Slides]({{site.baseurl}}{% link files/slides/01-fund-web-slides.pdf %})
 	  <br>Script em bash utilizado em aula: [servidor_web_bash.sh]({{site.baseurl}}{% link files/slides/servidor_web_bash.sh %})

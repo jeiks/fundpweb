@@ -44,9 +44,9 @@ layout: post
 1. [Exercícios HTML5]({{site.baseurl}}{%link files/Exercicios_HTML5.pdf %})
 
 **2ª Parte**
-1. [Portfolio]({{site.baseurl}}{%link files/portfolio.jpg %})
-1. [Media Query]({{site.baseurl}}{%link files/media_query.zip %}) ([exemplo]({{site.baseurl}}{% link files/media-query.jpg %}))
-1. [Exercícios CSS3]({{site.baseurl}}{%link files/Exercicios_CSS3.pdf %}) ([Menu Hamburguer]({{site.baseurl}}{% link files/menu.zip %}))
+1. Criar um portófio seguindo o exemplo: [Portfolio]({{site.baseurl}}{%link files/portfolio.jpg %});
+1. Adicionar imagem e responsividade no seguinte exemplo: [Media Query]({{site.baseurl}}{%link files/media_query.zip %}) ([exemplo]({{site.baseurl}}{% link files/media-query.jpg %})) -- [Slides Responsividade]({{site.baseurl}}{% link files/slides/09-fund-web-slides.pdf %});
+1. [Exercícios CSS3]({{site.baseurl}}{%link files/Exercicios_CSS3.pdf %}) ([Menu Hamburguer]({{site.baseurl}}{% link files/menu.zip %}));
 
 <hr>
 
